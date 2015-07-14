@@ -9,5 +9,5 @@ everything in 5 languages: Javascript, Java, C++, Lisp, and Haskell.  Of these,
 I'm already capable in Javascript, Java, and C++, so the functional language
 implementations will come a little later.
 
-Since this exercise should build good habits, each implementation should include
+Since this exercise should build good habits, each implementation will include
 proper commenting, error handling, and testing.
