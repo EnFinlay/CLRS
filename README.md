@@ -11,3 +11,5 @@ implementations will come a little later.
 
 Since this exercise should build good habits, each implementation will include
 proper commenting, error handling, and testing.
+
+To move the focus from language syntax to concepts, I'll be using only JS for the forseeable future.
